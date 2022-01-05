@@ -1,4 +1,5 @@
-syntax: glob
+
 */bin/*
 */obj/*
 *.suo
+.vs/
